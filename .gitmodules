@@ -1,0 +1,3 @@
+[submodule "import2"]
+	path = import2
+	url = https://github.com/popor6net57/jenkins
